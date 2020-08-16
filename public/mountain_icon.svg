@@ -1,0 +1,20 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient spreadMethod="pad" y2="0" x2="0.48047" y1="1" x1="0.48438" id="svg_4">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#354935"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="402" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_5" d="m15.99999,371.3894l184.00001,-342.77822l184.00001,342.77822l-368.00002,0z" stroke-width="20" stroke="#333333" fill="url(#svg_4)"/>
+ </g>
+</svg>
