@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import App from "./App";
+import AppWithGeoloc from "./App";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <AppWithGeoloc />
   </React.StrictMode>,
   rootElement
 );
